@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MW286
 - 👀 I’m interested in making my own video games.
-- 🌱 I’m currently learning general game design
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on (if I want to)
 - 📫 How to reach me (TBA)
 
